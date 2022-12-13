@@ -19,6 +19,12 @@ terminal, Konsole, console, bash, shell
 ## In den Elternordner gehen (einen Ordner höher)
 `cd ..`
 
+## Zum vorherigen Ordner zurück
+`cd -`
+
+## Home-Ordner
+`cd ~`
+
 ## Kopieren
 `cp`
 
@@ -28,6 +34,9 @@ terminal, Konsole, console, bash, shell
 ## Verschieben
 `mv`
 
+## Löschen
+`rm`
+
 ## Platzhalter
-`*` Mehrere Zeichen
-`?` Ein Zeichen
+`*` Mehrere beliebige Zeichen im Pfad
+`?` Ein beliebiges Zeichen im Pfad
