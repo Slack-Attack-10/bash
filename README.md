@@ -37,6 +37,9 @@ terminal, Konsole, console, bash, shell
 ## Löschen
 `rm`
 
+## Datei öffnen
+`less`
+
 ## Platzhalter
 `*` Mehrere beliebige Zeichen im Pfad  
 `?` Ein beliebiges Zeichen im Pfad
