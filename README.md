@@ -1,4 +1,5 @@
 # Linux Befehle
+terminal, Konsole, console, bash, shell
 
 ## In welchem Ordner bin ich?
 `pwd` 
