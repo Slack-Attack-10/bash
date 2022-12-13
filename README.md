@@ -1,4 +1,13 @@
 # Linux Befehle
 
-- In einen Ordner gehen
-- In den Elternordner gehen
+## In welchem Ordner bin ich?
+`pwd` 
+
+## Dateien und Ordner anzeigen (auflisten)
+`ls`
+
+## In einen Ordner gehen
+`cd`
+
+## In den Elternordner gehen (einen Ordner höher)
+`cd ..`
