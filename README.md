@@ -3,7 +3,11 @@ terminal, Konsole, console, bash, shell
 
 ### Spiele zum Lernen
 - [GameShell](https://github.com/phyver/GameShell)
-- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) (Browser)
+- [Wargames](https://overthewire.org/wargames/)
+- [bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+- [The Command Line Murders](https://github.com/veltman/clmystery)
+- [Linux Survival](https://linuxsurvival.com/) (Browser)
 
 ## In welchem Ordner bin ich?
 `pwd` 
