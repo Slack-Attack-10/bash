@@ -38,5 +38,5 @@ terminal, Konsole, console, bash, shell
 `rm`
 
 ## Platzhalter
-`*` Mehrere beliebige Zeichen im Pfad
+`*` Mehrere beliebige Zeichen im Pfad  
 `?` Ein beliebiges Zeichen im Pfad
